@@ -1,0 +1,3 @@
+SIKADUS RESOLUSI
+Sistem informasi DUkuh untuk pengelolaan Perdukuhan.
+Sistem ini berisikan sistem
