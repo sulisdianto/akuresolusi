@@ -1,3 +1,4 @@
 SIKADUS RESOLUSI
 Sistem informasi DUkuh untuk pengelolaan Perdukuhan.
 Sistem ini berisikan sistem
+Sistem ini untuk mendukung kinerja Kadus di desa masing-masing
